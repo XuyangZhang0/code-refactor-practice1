@@ -8,5 +8,12 @@ Change Log
 4. Added comments in index.html to indicate the start and closing of the header section of the website
 5. Updated the div tag in header element to be <nav> in index.html, leveraging semantic HTML tag
 6. Updated all header div selector references, to nav element in style.css, as a follow up action to change #5 ensure the page function remain the same
+7. Replaced <div class="hero"></div> element with figure element that contains a img element in index.html, with alt text
+8. Updated hero class styling in style.css and removed background-image url, as the function is surfaced in index.html
+9. Changed <div class="content"> element to be <main> in index.html, leveraging semantic HTML tag
+10. Updated content class reference in style.css to be main selector
+11. Updated div tags within <main> to be section, leveraging semantic HTML tag
+12. Added alt attribute to 3 images in the main section within the index.html
+13. Removed unnecessary/unused id declaration for section "social-media-marketing" and "online-reputation-management" from index.html
 
 
