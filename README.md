@@ -14,6 +14,14 @@ Change Log
 10. Updated content class reference in style.css to be main selector
 11. Updated div tags within <main> to be section, leveraging semantic HTML tag
 12. Added alt attribute to 3 images in the main section within the index.html
-13. Removed unnecessary/unused id declaration for section "social-media-marketing" and "online-reputation-management" from index.html
+13. Removed unnecessary/unused class declarations in <main> element from index.html, and added id declaration for the first section, to ensure the anchor link in nav functions
+14. Updated all search-engine-optimization, online-reputation-management, social-media-marketing class references in sytle.css to be id (# instead of .)
+15. Updated <div class="benefits"> element to be aside in index.html, leveraging semantic HTML tag
+16. Added alt attributes to three images in aside section of the index.html
+17. Updated benefit-lead, benefit-brand, benefit-cost classes to be benefit-item in index.html
+18. Updated all above class references to benefit-item, and removed redundant styling in style.css
+
+
+
 
 
