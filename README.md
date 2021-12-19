@@ -20,6 +20,12 @@ Change Log
 16. Added alt attributes to three images in aside section of the index.html
 17. Updated benefit-lead, benefit-brand, benefit-cost classes to be benefit-item in index.html
 18. Updated all above class references to benefit-item, and removed redundant styling in style.css
+19. Updated div tag in the aside element to be section in index.html, leveraging semantic HTML tag
+20. Updated <div class="footer"> element to be <footer> in index.html, leveraging semantic HTML tag
+21. Replaced all class footer references in style.css to be footer element selector, as a follow up action to change #20 to maintain page function
+22. Added a class marketing-function-item, and associate to sections in <main>, so that we can reduce redundant styling.
+23. Updated search-engine-optimization, online-reputation-management, social-media-marketing id reference to be class marketing-function-item, and removed redundant styling code in style.css
+24. Added comments in index.html
 
 
 
