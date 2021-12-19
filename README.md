@@ -26,6 +26,7 @@ Change Log
 22. Added a class marketing-function-item, and associate to sections in <main>, so that we can reduce redundant styling.
 23. Updated search-engine-optimization, online-reputation-management, social-media-marketing id reference to be class marketing-function-item, and removed redundant styling code in style.css
 24. Added comments in index.html
+25. Updated footer heading to be h4 instead of h2 in index.html, and corresponding css selector in style.css
 
 
 
