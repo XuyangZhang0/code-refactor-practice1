@@ -1,4 +1,4 @@
-# code-refactor-practice1
+# horiseon-code-refactor
 Product of a code refactor practice, following accessibility standards, with ***semantic HTML*** tags,  alt attributes, properly ordered heading attributes, etc.
 
 ## Change Logs
